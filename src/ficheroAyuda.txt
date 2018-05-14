@@ -1,0 +1,5 @@
+Pulse CTRL + A para elegir una foto de tu disco.
+Pulse CTRL + U para umbralizar.
+Pulse CTRL + S para abandonar la aplicacion.
+Pulse CTRL + H para obtener ayuda.
+Pulse CTRL + I para obtener informacion acerca de la aplicacion
