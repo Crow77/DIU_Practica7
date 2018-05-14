@@ -277,7 +277,7 @@ public class MarcoPrincipal extends javax.swing.JFrame {
         String texto = "Practica 7: Escritorio y Ventanas Internas.\nUmbralizado de Imágenes(II) \n"
                 
                       + "Diseño de Interfaces de Usuario Curso 2017/18 \n"
-                      + "Autores:\n Edilma Alvarado Espinoza \n Levi Malest Villareal";
+                      + "Autor: Levi Malest Villarreal";
         
         JOptionPane.showMessageDialog(rootPane, texto,"Umbralizado de Imágenes",WIDTH);
     }//GEN-LAST:event_opcionAcercaDeActionPerformed
